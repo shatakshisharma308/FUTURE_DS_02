@@ -24,7 +24,7 @@ Conversions by interests
 
 Tools: Power BI Desktop, Excel, Power Query, DAX
 
-Files: Facebook Ads dashboard.pbix (interactive), Facebook Ads dashboard.pdf (snapshot)
+Files: Facebook Ads dashboard.pbix (interactive), Facebook Ads dashboard.pdf (snapshot) and Facebook Dataset (Raw)
 
 Open the PBIX file to explore insights interactively, or check the PDF for a quick overview of campaign performance.
 
